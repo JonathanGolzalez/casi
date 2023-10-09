@@ -1,0 +1,30 @@
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\bin\Debug\BiblioData.mdf
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\bin\Debug\BiblioData_log.ldf
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\bin\Debug\BiblioTech.exe.config
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\bin\Debug\BiblioTech.exe
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\bin\Debug\BiblioTech.pdb
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.AssemblyReference.cache
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.Form1.resources
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.Properties.Resources.resources
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.GenerateResource.cache
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.CoreCompileInputs.cache
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.exe
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.pdb
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.Menu.resources
+C:\Users\Josue Inge\source\repos\BiblioTech\BiblioTech\obj\Debug\BiblioTech.RegistroLibros.resources
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\bin\Debug\BiblioData.mdf
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\bin\Debug\BiblioData_log.ldf
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\bin\Debug\BiblioTech.exe.config
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\bin\Debug\BiblioTech.exe
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\bin\Debug\BiblioTech.pdb
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.Form1.resources
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.Menu.resources
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.RegistroLibros.resources
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.exe
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.pdb
+C:\Users\MINEDUCYT\Desktop\BiblioTech\BiblioTech\obj\Debug\BiblioTech.RegistroUsuarios.resources
